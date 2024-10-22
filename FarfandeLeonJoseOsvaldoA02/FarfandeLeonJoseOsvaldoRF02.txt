@@ -1,0 +1,8 @@
+Requerimientos funcionales:
+	Paradigma de programación: P. O. O.
+	El sistema debe contener una interfaz gráfica intuitiva.
+	Mostrar la imagen a analizar.
+	Crear un grafo dinámico que representa a la imagen. ( 40 puntos)
+	Mostrar una imagen que represente al grafo. (15 puntos)
+	Mostrar la información del grafo (textual). (20 puntos)
+	Encontrar con fuerza bruta y mostrar gráficamente el par de puntos más cercanos. (25 puntos)
